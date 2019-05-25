@@ -51,6 +51,7 @@ Visual Style
 * Fixed: Site Name and top navigation menu move to left on wide displays
 * Fixed: Page link is not active in the navbar if `SAVE_PAGE_AS` is not set to
   default
+* Fixed: Remove Google+ from article share links
 
 Plugins
 -------
